@@ -14,4 +14,5 @@ No Checkpoint 02 foi implementado:
 
 
 ## GitHub Pages
-https://github.com/Rafael870703/vinheria-agnello-checkpoint02/edit/main/vinheria-agnello-checkpoint02/README.md
+
+Acesse o projeto publicado: https://rafael870703.github.io/vinheria-agnello-checkpoint02/
