@@ -14,4 +14,4 @@ No Checkpoint 02 foi implementado:
 
 
 ## GitHub Pages
-https://SEU-USUARIO.github.io/vinheria-agnello-checkpoint02/
+https://github.com/Rafael870703/vinheria-agnello-checkpoint02/edit/main/vinheria-agnello-checkpoint02/README.md
