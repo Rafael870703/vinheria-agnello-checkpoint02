@@ -1,0 +1,32 @@
+/* Estilo geral da página */
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  background: #f7f1ea;
+  color: #2b1b1b;
+  line-height: 1.6;
+}
+
+header {
+  background: #5b1a2b; /* cor de vinho */
+  color: #fff;
+  text-align: center;
+  padding: 32px 16px;
+}
+
+header h1 {
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+main {
+  max-width: 640px;
+  margin: 40px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.aviso {
+  font-size: 0.9rem;
+  color: #7a5c5c;
+}
